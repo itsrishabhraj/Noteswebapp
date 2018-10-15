@@ -1,0 +1,34 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+  background: url("table.jpg") no-repeat center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.jumbotron{
+  background: transparent;
+  text-align: center;
+  letter-spacing: 2.5px;
+  padding: 10px;
+  margin-top: 143px;
+}
+.jumbotron p{
+  font-size: 1.4em;
+}
+.footer{
+  color: #fff;
+  text-align: center;
+  height: 40px;
+  display: table;
+}
+.footer span{
+  display: table-cell;
+  vertical-align: middle;
+}
+/* #################################ACTIVAE.PHP##################################### */
+div.activation_box{
+  margin-top: 150px;
+  text-align: center;
+}
